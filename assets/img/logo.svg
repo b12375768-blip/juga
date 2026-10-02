@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Creator Rights logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#0f1220"/>
+  <path d="M32 8 51 15v17c0 12-8 20.5-19 24-11-3.5-19-12-19-24V15z" fill="url(#g)"/>
+  <path d="M32 8 51 15v17c0 12-8 20.5-19 24z" fill="#fff" opacity=".12"/>
+  <circle cx="32" cy="29" r="10.5" fill="none" stroke="#fff" stroke-width="3.4"/>
+  <path d="M32 25.5v7" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="32" cy="36.6" r="1.9" fill="#fff"/>
+  <path d="m23.5 47.5 4.6 4.6L42 38.2" fill="none" stroke="#2dd4bf" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

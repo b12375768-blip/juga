@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Fair use weighs a small excerpt against the original work on a four factor balance">
+<defs>
+  <linearGradient id="p3bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1b2138"/><stop offset="1" stop-color="#2a2740"/>
+  </linearGradient>
+  <linearGradient id="p3A" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f59e0b"/>
+  </linearGradient>
+</defs>
+<rect width="400" height="240" rx="14" fill="url(#p3bg)"/>
+<g fill="#fbbf24">
+  <circle cx="318" cy="42" r="8"/>
+  <circle cx="344" cy="42" r="8" opacity=".72"/>
+  <circle cx="318" cy="68" r="8" opacity=".72"/>
+  <circle cx="344" cy="68" r="8" opacity=".45"/>
+</g>
+<rect x="192" y="88" width="16" height="118" rx="8" fill="url(#p3A)"/>
+<rect x="166" y="206" width="68" height="12" rx="6" fill="rgba(255,255,255,.22)"/>
+<rect x="80" y="78" width="240" height="12" rx="6" fill="url(#p3A)"/>
+<path d="M110 90v34M290 90v34" stroke="rgba(255,255,255,.28)" stroke-width="3" stroke-linecap="round"/>
+<path d="M76 124h68c0 22-68 22-68 0z" fill="rgba(45,212,191,.22)" stroke="#2dd4bf" stroke-width="2.5"/>
+<path d="M256 124h68c0 26-68 26-68 0z" fill="rgba(99,102,241,.24)" stroke="#818cf8" stroke-width="2.5"/>
+<rect x="92" y="102" width="36" height="22" rx="4" fill="rgba(255,255,255,.34)"/>
+<rect x="266" y="92" width="48" height="32" rx="5" fill="rgba(255,255,255,.22)"/>
+<g fill="rgba(255,255,255,.28)">
+  <rect x="272" y="99" width="36" height="5" rx="2.5"/>
+  <rect x="272" y="108" width="26" height="5" rx="2.5"/>
+</g>
+<g transform="translate(34,150)">
+  <rect width="140" height="26" rx="8" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.14)"/>
+  <circle cx="18" cy="13" r="7" fill="#2dd4bf"/>
+  <path d="M15 13.2l2 2 3.8-4.2" fill="none" stroke="#06231f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="32" y="9" width="88" height="8" rx="4" fill="rgba(255,255,255,.30)"/>
+</g>
+<g transform="translate(226,150)">
+  <rect width="140" height="26" rx="8" fill="rgba(251,191,36,.12)" stroke="rgba(251,191,36,.4)"/>
+  <circle cx="18" cy="13" r="7" fill="#fbbf24"/>
+  <path d="M15 13.2l2 2 3.8-4.2" fill="none" stroke="#3a2a06" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="32" y="9" width="82" height="8" rx="4" fill="rgba(255,255,255,.30)"/>
+</g>
+</svg>

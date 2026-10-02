@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Music in a video needs two permissions: sync for pairing sound with picture, and master for the recording itself">
+<defs>
+  <linearGradient id="p2bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1b2138"/><stop offset="1" stop-color="#23303f"/>
+  </linearGradient>
+  <linearGradient id="p2A" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#0ea5e9"/>
+  </linearGradient>
+  <linearGradient id="p2B" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#4338ca"/>
+  </linearGradient>
+</defs>
+<rect width="400" height="240" rx="14" fill="url(#p2bg)"/>
+<g>
+  <rect x="34" y="34" width="96" height="54" rx="9" fill="rgba(255,255,255,.07)" stroke="rgba(255,255,255,.14)"/>
+  <path d="M42 78l24-22 16 14 12-9 24 17z" fill="rgba(255,255,255,.20)"/>
+  <rect x="152" y="34" width="96" height="54" rx="9" fill="rgba(255,255,255,.07)" stroke="rgba(255,255,255,.14)"/>
+  <path d="M160 78l24-22 16 14 12-9 24 17z" fill="rgba(255,255,255,.20)"/>
+  <rect x="270" y="34" width="96" height="54" rx="9" fill="rgba(255,255,255,.07)" stroke="rgba(255,255,255,.14)"/>
+  <path d="M278 78l24-22 16 14 12-9 24 17z" fill="rgba(255,255,255,.20)"/>
+  <path d="M148 34v54M266 34v54" stroke="#2dd4bf" stroke-width="2.5" stroke-dasharray="6 6"/>
+  <path d="M82 88v18M318 88v18" stroke="#2dd4bf" stroke-width="2.5" stroke-dasharray="6 6"/>
+</g>
+<circle cx="200" cy="128" r="17" fill="url(#p2A)"/>
+<rect x="190" y="122" width="11" height="8" rx="4" fill="none" stroke="#06231f" stroke-width="2.4"/>
+<rect x="199" y="122" width="11" height="8" rx="4" fill="none" stroke="#06231f" stroke-width="2.4"/>
+<rect x="34" y="158" width="332" height="42" rx="12" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)"/>
+<g fill="url(#p2A)">
+  <rect x="48" y="172" width="7" height="14" rx="3.5"/>
+  <rect x="62" y="166" width="7" height="26" rx="3.5"/>
+  <rect x="76" y="160" width="7" height="38" rx="3.5"/>
+  <rect x="90" y="170" width="7" height="18" rx="3.5"/>
+  <rect x="104" y="164" width="7" height="30" rx="3.5"/>
+  <rect x="118" y="174" width="7" height="10" rx="3.5"/>
+  <rect x="132" y="168" width="7" height="22" rx="3.5"/>
+</g>
+<rect x="164" y="170" width="192" height="7" rx="3.5" fill="rgba(255,255,255,.16)"/>
+<rect x="164" y="182" width="120" height="6" rx="3" fill="rgba(255,255,255,.10)"/>
+<g transform="translate(34,210)">
+  <rect width="160" height="26" rx="8" fill="rgba(99,102,241,.16)" stroke="rgba(129,140,248,.42)"/>
+  <circle cx="18" cy="13" r="7" fill="#818cf8"/>
+  <path d="M15 13.2l2 2 3.8-4.2" fill="none" stroke="#0b1020" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="32" y="9" width="102" height="8" rx="4" fill="rgba(255,255,255,.32)"/>
+</g>
+<g transform="translate(206,210)">
+  <rect width="160" height="26" rx="8" fill="rgba(45,212,191,.14)" stroke="rgba(45,212,191,.42)"/>
+  <circle cx="18" cy="13" r="7" fill="#2dd4bf"/>
+  <path d="M15 13.2l2 2 3.8-4.2" fill="none" stroke="#06231f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="32" y="9" width="88" height="8" rx="4" fill="rgba(255,255,255,.32)"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Copyright is a bundle of separate rights, each one needed for a single video">
+<defs>
+  <linearGradient id="p1bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1b2138"/><stop offset="1" stop-color="#252c4c"/>
+  </linearGradient>
+  <linearGradient id="p1A" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#4338ca"/>
+  </linearGradient>
+</defs>
+<rect width="400" height="240" rx="14" fill="url(#p1bg)"/>
+<g transform="translate(46,54) scale(1.85)">
+  <path d="M32 6 52 13v18c0 13-8.5 22-20 25.5C20.5 53 12 44 12 31V13z" fill="url(#p1A)"/>
+  <path d="M32 6 52 13v18c0 13-8.5 22-20 25.5z" fill="#fff" opacity=".15"/>
+  <circle cx="30" cy="28" r="10" fill="none" stroke="#fff" stroke-width="3.4"/>
+  <path d="M30 24.5v7" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="30" cy="35.4" r="1.8" fill="#fff"/>
+</g>
+<g transform="translate(196,48)">
+  <rect width="168" height="36" rx="11" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.12)"/>
+  <circle cx="22" cy="18" r="10" fill="#2dd4bf"/>
+  <path d="M17.5 18.2l3 3 5.6-6.4" fill="none" stroke="#0b1020" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="42" y="11" width="104" height="7" rx="3.5" fill="rgba(255,255,255,.30)"/>
+  <rect x="42" y="22" width="66" height="6" rx="3" fill="rgba(255,255,255,.14)"/>
+</g>
+<g transform="translate(196,96)">
+  <rect width="168" height="36" rx="11" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.12)"/>
+  <circle cx="22" cy="18" r="10" fill="#2dd4bf"/>
+  <path d="M17.5 18.2l3 3 5.6-6.4" fill="none" stroke="#0b1020" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="42" y="11" width="88" height="7" rx="3.5" fill="rgba(255,255,255,.30)"/>
+  <rect x="42" y="22" width="104" height="6" rx="3" fill="rgba(255,255,255,.14)"/>
+</g>
+<g transform="translate(196,144)">
+  <rect width="168" height="36" rx="11" fill="rgba(99,102,241,.16)" stroke="rgba(129,140,248,.4)"/>
+  <circle cx="22" cy="18" r="10" fill="#818cf8"/>
+  <path d="M17.5 18.2l3 3 5.6-6.4" fill="none" stroke="#0b1020" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="42" y="11" width="112" height="7" rx="3.5" fill="rgba(255,255,255,.36)"/>
+  <rect x="42" y="22" width="58" height="6" rx="3" fill="rgba(255,255,255,.18)"/>
+</g>
+</svg>
